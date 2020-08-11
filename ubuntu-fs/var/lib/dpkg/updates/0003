@@ -1,0 +1,24 @@
+Package: libpcap0.8
+Status: install ok unpacked
+Priority: optional
+Section: libs
+Installed-Size: 280
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: same
+Source: libpcap
+Version: 1.8.1-6ubuntu1
+Replaces: libpcap0.8-dev (<< 1.0.0-2)
+Depends: libc6 (>= 2.17)
+Description: system interface for user-level packet capture
+ libpcap (Packet CAPture) provides a portable framework for low-level
+ network monitoring.  Applications include network statistics collection,
+ security monitoring, network debugging, etc.
+ .
+ Since almost every system vendor provides a different interface for
+ packet capture, and since there are several tools that require this
+ functionality, the libpcap authors created this system-independent API
+ to ease in porting and to alleviate the need for several
+ system-dependent packet capture modules in each application.
+Original-Maintainer: Romain Francoise <rfrancoise@debian.org>
+Homepage: http://www.tcpdump.org/

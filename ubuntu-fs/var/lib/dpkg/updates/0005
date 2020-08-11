@@ -1,0 +1,19 @@
+Package: libusb-1.0-0
+Status: install reinstreq unpacked
+Priority: optional
+Section: libs
+Installed-Size: 116
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: same
+Source: libusb-1.0
+Version: 2:1.0.21-2
+Depends: libc6 (>= 2.17), libudev1 (>= 183)
+Description: userspace USB programming library
+ Library for programming USB applications without the knowledge
+ of Linux kernel internals.
+ .
+ This package contains what you need to run programs that use this
+ library.
+Original-Maintainer: Aurelien Jarno <aurel32@debian.org>
+Homepage: http://www.libusb.info

@@ -1,0 +1,7 @@
+Package: rfkill
+Status: install reinstreq half-installed
+Priority: important
+Section: utils
+Architecture: arm64
+Multi-Arch: foreign
+Version: 2.31.1-0.4ubuntu3

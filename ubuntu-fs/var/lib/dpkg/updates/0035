@@ -1,0 +1,20 @@
+Package: wireless-regdb
+Status: install reinstreq unpacked
+Priority: optional
+Section: net
+Installed-Size: 25
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Multi-Arch: foreign
+Version: 2016.06.10-0ubuntu1
+Suggests: crda
+Description: wireless regulatory database
+ This package contains the wireless regulatory database used by the Central
+ Regulatory Database Agent (CRDA) to configure wireless devices to operate
+ within the radio spectrum allowed in the local jurisdiction.
+ .
+ This regulatory information is provided with no warranty either expressed or
+ implied. Only Linux drivers which use cfg80211 framework can make use of the
+ regulatory database and CRDA.
+Homepage: http://wireless.kernel.org/en/developers/Regulatory/#The_regulatory_database
+Original-Maintainer: Ben Hutchings <ben@decadent.org.uk>

@@ -1,0 +1,416 @@
+Package: libgssapi3-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxdmcp6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgssapi-krb5-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libnghttp2-14
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libwind0-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-modules-db
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: git-man
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libheimntlm0-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsqlite3-0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: perl-modules-5.26
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libheimbase1-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: netbase
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: krb5-locales
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libperl5.26
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: librtmp1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libsasl2-modules
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libldap-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgdbm5
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libhcrypto4-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: arm64
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: arm64
+Auto-Installed: 1
+
+Package: multiarch-support
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libroken18-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: perl
+Architecture: arm64
+Auto-Installed: 1
+
+Package: xauth
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libasn1-8-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libkrb5-26-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgdbm-compat4
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libhx509-5-heimdal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: patch
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libcurl3-gnutls
+Architecture: arm64
+Auto-Installed: 1
+
+Package: less
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libssl1.0.0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: liberror-perl
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpython3.6-minimal
+Architecture: arm64
+Auto-Installed: 1
+
+Package: vim-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpython3.6-stdlib
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpython3.6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: arm64
+Auto-Installed: 1
+
+Package: readline-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libmpdec2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libmagic-mgc
+Architecture: arm64
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: arm64
+Auto-Installed: 1
+
+Package: xz-utils
+Architecture: arm64
+Auto-Installed: 1
+
+Package: xxd
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libreadline7
+Architecture: arm64
+Auto-Installed: 1
+
+Package: bzip2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: file
+Architecture: arm64
+Auto-Installed: 1
+
+Package: javascript-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby2.5
+Architecture: arm64
+Auto-Installed: 1
+
+Package: rake
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby-net-telnet
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libjs-jquery
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby-minitest
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libruby2.5
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby-power-assert
+Architecture: arm64
+Auto-Installed: 1
+
+Package: unzip
+Architecture: arm64
+Auto-Installed: 1
+
+Package: zip
+Architecture: arm64
+Auto-Installed: 1
+
+Package: rubygems-integration
+Architecture: arm64
+Auto-Installed: 1
+
+Package: fonts-lato
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby-test-unit
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libyaml-0-2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ruby-did-you-mean
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libcaca0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: toilet-fonts
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libslang2
+Architecture: arm64
+Auto-Installed: 1
+
+Package: zsh-common
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libcurl4
+Architecture: arm64
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: arm64
+Auto-Installed: 1
+
+Package: fontconfig
+Architecture: arm64
+Auto-Installed: 1
+
+Package: fonts-dejavu-core
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ucf
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpng16-16
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libusb-1.0-0
+Architecture: arm64
+Auto-Installed: 1
+
+Package: iw
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libnl-genl-3-200
+Architecture: arm64
+Auto-Installed: 1
+
+Package: wireless-tools
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libiw30
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libnl-3-200
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ieee-data
+Architecture: arm64
+Auto-Installed: 1
+
+Package: rfkill
+Architecture: arm64
+Auto-Installed: 1
+
+Package: usbutils
+Architecture: arm64
+Auto-Installed: 1
+
+Package: ethtool
+Architecture: arm64
+Auto-Installed: 1
+
+Package: libpcap0.8
+Architecture: arm64
+Auto-Installed: 1
+
+Package: crda
+Architecture: arm64
+Auto-Installed: 1
+
+Package: wireless-regdb
+Architecture: arm64
+Auto-Installed: 1
+

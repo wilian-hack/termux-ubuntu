@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/fonts
+/etc/fonts/conf.avail
+/etc/fonts/conf.avail/10-powerline-symbols.conf
+/etc/fonts/conf.d
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/fonts-powerline
+/usr/share/doc/fonts-powerline/changelog.Debian.gz
+/usr/share/doc/fonts-powerline/copyright
+/usr/share/fonts
+/usr/share/fonts/opentype
+/usr/share/fonts/opentype/PowerlineSymbols.otf
+/etc/fonts/conf.d/10-powerline-symbols.conf

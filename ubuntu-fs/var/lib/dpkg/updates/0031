@@ -1,0 +1,6 @@
+Package: aircrack-ng
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: arm64
+Version: 1:1.2-0~rc4-4

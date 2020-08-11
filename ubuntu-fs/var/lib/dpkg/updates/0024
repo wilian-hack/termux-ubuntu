@@ -1,0 +1,20 @@
+Package: wireless-tools
+Status: install ok unpacked
+Priority: extra
+Section: net
+Installed-Size: 276
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: foreign
+Version: 30~pre9-12ubuntu1
+Depends: libc6 (>= 2.17), libiw30 (>= 30~pre1)
+Conffiles:
+ /etc/network/if-post-down.d/wireless-tools newconffile
+ /etc/network/if-pre-up.d/wireless-tools newconffile
+Description: Tools for manipulating Linux Wireless Extensions
+ This package contains the Wireless tools, used to manipulate
+ the Linux Wireless Extensions. The Wireless Extension is an interface
+ allowing you to set Wireless LAN specific parameters and get the
+ specific stats.
+Homepage: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
+Original-Maintainer: Guus Sliepen <guus@debian.org>

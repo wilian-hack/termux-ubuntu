@@ -1,0 +1,7 @@
+Package: libnl-genl-3-200
+Status: install reinstreq half-installed
+Priority: optional
+Section: libs
+Architecture: arm64
+Multi-Arch: same
+Version: 3.2.29-0ubuntu3

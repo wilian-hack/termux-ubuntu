@@ -1,0 +1,6 @@
+Package: ethtool
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: arm64
+Version: 1:4.15-0ubuntu1

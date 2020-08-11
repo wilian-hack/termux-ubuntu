@@ -1,0 +1,19 @@
+Package: libiw30
+Status: install ok unpacked
+Priority: extra
+Section: libs
+Installed-Size: 56
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: same
+Source: wireless-tools
+Version: 30~pre9-12ubuntu1
+Depends: libc6 (>= 2.17)
+Description: Wireless tools - library
+ Wireless tools are used to manipulate the Linux Wireless Extensions. The
+ Wireless Extension is an interface allowing you to set Wireless LAN specific
+ parameters and get the specific stats.
+ .
+ This package contains the dynamic library libiw.
+Homepage: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
+Original-Maintainer: Guus Sliepen <guus@debian.org>

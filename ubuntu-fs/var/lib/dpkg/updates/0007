@@ -1,0 +1,7 @@
+Package: usbutils
+Status: install reinstreq half-installed
+Priority: optional
+Section: utils
+Architecture: arm64
+Multi-Arch: foreign
+Version: 1:007-4build1

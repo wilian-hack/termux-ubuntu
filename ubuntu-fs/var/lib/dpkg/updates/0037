@@ -1,0 +1,7 @@
+Package: crda
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: arm64
+Multi-Arch: foreign
+Version: 3.18-1build1

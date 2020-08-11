@@ -1,0 +1,7 @@
+Package: libpcap0.8
+Status: install reinstreq half-installed
+Priority: optional
+Section: libs
+Architecture: arm64
+Multi-Arch: same
+Version: 1.8.1-6ubuntu1

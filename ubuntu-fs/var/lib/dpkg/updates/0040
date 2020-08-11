@@ -1,0 +1,6 @@
+Package: ieee-data
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: all
+Version: 20180204.1

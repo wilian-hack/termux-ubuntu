@@ -1,0 +1,19 @@
+Package: usbutils
+Status: install reinstreq unpacked
+Priority: optional
+Section: utils
+Installed-Size: 700
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: foreign
+Version: 1:007-4build1
+Depends: libc6 (>= 2.17), libusb-1.0-0 (>= 2:1.0.16), zlib1g (>= 1:1.1.4)
+Suggests: wget (>= 1.8.1-6) | lynx-cur
+Description: Linux USB utilities
+ This package contains the lsusb utility for inspecting the devices
+ connected to the USB bus. It shows a graphical representation of the
+ devices that are currently plugged in, showing the topology of the
+ USB bus. It also displays information on each individual device on
+ the bus.
+Original-Maintainer: Aurelien Jarno <aurel32@debian.org>
+Homepage: https://github.com/gregkh/usbutils

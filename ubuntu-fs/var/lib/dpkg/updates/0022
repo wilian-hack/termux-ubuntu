@@ -1,0 +1,7 @@
+Package: wireless-tools
+Status: install reinstreq half-installed
+Priority: extra
+Section: net
+Architecture: arm64
+Multi-Arch: foreign
+Version: 30~pre9-12ubuntu1

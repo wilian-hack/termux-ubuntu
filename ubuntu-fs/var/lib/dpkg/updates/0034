@@ -1,0 +1,7 @@
+Package: wireless-regdb
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: all
+Multi-Arch: foreign
+Version: 2016.06.10-0ubuntu1

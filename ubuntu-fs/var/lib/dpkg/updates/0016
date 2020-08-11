@@ -1,0 +1,7 @@
+Package: iw
+Status: install reinstreq half-installed
+Priority: optional
+Section: net
+Architecture: arm64
+Multi-Arch: foreign
+Version: 4.14-0.1

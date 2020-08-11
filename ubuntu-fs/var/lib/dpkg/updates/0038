@@ -1,0 +1,21 @@
+Package: crda
+Status: install reinstreq unpacked
+Priority: optional
+Section: net
+Installed-Size: 269
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: foreign
+Version: 3.18-1build1
+Depends: libc6 (>= 2.17), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libssl1.1 (>= 1.1.0), wireless-regdb, iw (>= 3.2-1~)
+Conffiles:
+ /etc/default/crda newconffile
+Description: wireless Central Regulatory Domain Agent
+ This package provides a Central Regulatory Domain Agent (CRDA) to be used by
+ the Linux kernel cfg80211 wireless subsystem to query and apply the regulatory
+ domain settings wireless devices may operate within for a given location.
+ .
+ CRDA queries operational frequency regulations stored within the regulatory
+ database provided by the wireless-regdb package.
+Homepage: https://wireless.wiki.kernel.org/en/developers/Regulatory/CRDA
+Original-Maintainer: Ben Hutchings <ben@decadent.org.uk>

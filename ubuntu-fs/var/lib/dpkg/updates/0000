@@ -1,0 +1,32 @@
+Package: libc-bin
+Essential: yes
+Status: install ok triggers-pending
+Priority: required
+Section: libs
+Installed-Size: 3024
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: foreign
+Source: glibc
+Version: 2.27-3ubuntu1
+Depends: libc6 (>> 2.27), libc6 (<< 2.28)
+Suggests: manpages
+Conffiles:
+ /etc/bindresvport.blacklist 4c09213317e4e3dd3c71d74404e503c5
+ /etc/default/nss d6d5d6f621fb3ead2548076ce81e309c
+ /etc/gai.conf 28fa76ff5a9e0566eaa1e11f1ce51f09
+ /etc/ld.so.conf 4317c6de8564b68d628c21efa96b37e4
+ /etc/ld.so.conf.d/libc.conf d4d833fd095fb7b90e1bb4a547f16de6
+Description: GNU C Library: Binaries
+ This package contains utility programs related to the GNU C Library.
+ .
+  * catchsegv: catch segmentation faults in programs
+  * getconf: query system configuration variables
+  * getent: get entries from administrative databases
+  * iconv, iconvconfig: convert between character encodings
+  * ldd, ldconfig: print/configure shared library dependencies
+  * locale, localedef: show/generate locale definitions
+  * tzselect, zdump, zic: select/dump/compile time zones
+Triggers-Pending: ldconfig
+Homepage: https://www.gnu.org/software/libc/libc.html
+Original-Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.org>

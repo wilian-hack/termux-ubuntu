@@ -1,0 +1,22 @@
+Package: iw
+Status: install ok unpacked
+Priority: optional
+Section: net
+Installed-Size: 207
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: arm64
+Multi-Arch: foreign
+Version: 4.14-0.1
+Replaces: aircrack-ng (<< 1:1.0~rc2-1)
+Depends: libc6 (>= 2.17), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7)
+Recommends: crda
+Breaks: aircrack-ng (<< 1:1.0~rc2-1)
+Description: tool for configuring Linux wireless devices
+ This package contains the `iw' tool which allows you to configure and show
+ information about wireless networking.
+ .
+ In the future iw will become the canonical command line tool for wireless
+ configuration and iwconfig/wireless-tools will no longer be required. See
+ /usr/share/doc/iw/README.Debian for a more detailed overview of iw.
+Original-Maintainer: Debian wpasupplicant Maintainers <pkg-wpa-devel@lists.alioth.debian.org>
+Homepage: http://wireless.kernel.org/en/users/Documentation/iw

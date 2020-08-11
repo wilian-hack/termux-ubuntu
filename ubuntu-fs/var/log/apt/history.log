@@ -1,0 +1,51 @@
+
+Start-Date: 2020-08-04  03:27:39
+Commandline: apt install git
+Install: libgssapi3-heimdal:arm64 (7.5.0+dfsg-1, automatic), libxdmcp6:arm64 (1:1.1.2-3, automatic), libkrb5-3:arm64 (1.16-2build1, automatic), libgssapi-krb5-2:arm64 (1.16-2build1, automatic), libnghttp2-14:arm64 (1.30.0-1ubuntu1, automatic), libwind0-heimdal:arm64 (7.5.0+dfsg-1, automatic), libsasl2-modules-db:arm64 (2.1.27~101-g0780600+dfsg-3ubuntu2, automatic), libldap-2.4-2:arm64 (2.4.45+dfsg-1ubuntu1, automatic), git-man:arm64 (1:2.17.0-1ubuntu1, automatic), libheimntlm0-heimdal:arm64 (7.5.0+dfsg-1, automatic), libsqlite3-0:arm64 (3.22.0-1, automatic), libbsd0:arm64 (0.8.7-1, automatic), perl-modules-5.26:arm64 (5.26.1-6, automatic), libheimbase1-heimdal:arm64 (7.5.0+dfsg-1, automatic), netbase:arm64 (5.4, automatic), git:arm64 (1:2.17.0-1ubuntu1), libk5crypto3:arm64 (1.16-2build1, automatic), libsasl2-2:arm64 (2.1.27~101-g0780600+dfsg-3ubuntu2, automatic), libx11-6:arm64 (2:1.6.4-3, automatic), libexpat1:arm64 (2.2.5-3, automatic), krb5-locales:arm64 (1.16-2build1, automatic), libperl5.26:arm64 (5.26.1-6, automatic), libxau6:arm64 (1:1.0.8-1, automatic), librtmp1:arm64 (2.4+20151223.gitfa8646d.1-1, automatic), libsasl2-modules:arm64 (2.1.27~101-g0780600+dfsg-3ubuntu2, automatic), libxcb1:arm64 (1.13-1, automatic), libkrb5support0:arm64 (1.16-2build1, automatic), libldap-common:arm64 (2.4.45+dfsg-1ubuntu1, automatic), libgdbm5:arm64 (1.14.1-6, automatic), libhcrypto4-heimdal:arm64 (7.5.0+dfsg-1, automatic), libkeyutils1:arm64 (1.5.9-9.2ubuntu2, automatic), libxmuu1:arm64 (2:1.1.2-2, automatic), libx11-data:arm64 (2:1.6.4-3, automatic), openssh-client:arm64 (1:7.6p1-4, automatic), multiarch-support:arm64 (2.27-3ubuntu1, automatic), libedit2:arm64 (3.1-20170329-1, automatic), libroken18-heimdal:arm64 (7.5.0+dfsg-1, automatic), perl:arm64 (5.26.1-6, automatic), xauth:arm64 (1:1.0.10-1, automatic), libasn1-8-heimdal:arm64 (7.5.0+dfsg-1, automatic), libkrb5-26-heimdal:arm64 (7.5.0+dfsg-1, automatic), libgdbm-compat4:arm64 (1.14.1-6, automatic), libhx509-5-heimdal:arm64 (7.5.0+dfsg-1, automatic), patch:arm64 (2.7.6-2ubuntu1, automatic), libcurl3-gnutls:arm64 (7.58.0-2ubuntu3, automatic), less:arm64 (487-0.1, automatic), libssl1.0.0:arm64 (1.0.2n-1ubuntu5, automatic), libxext6:arm64 (2:1.3.3-1, automatic), liberror-perl:arm64 (0.17025-1, automatic)
+End-Date: 2020-08-04  03:29:22
+
+Start-Date: 2020-08-04  03:39:07
+Commandline: apt install vim
+Install: libpython3.6-minimal:arm64 (3.6.5-3, automatic), vim-common:arm64 (2:8.0.1453-1ubuntu1, automatic), libpython3.6-stdlib:arm64 (3.6.5-3, automatic), libpython3.6:arm64 (3.6.5-3, automatic), mime-support:arm64 (3.60ubuntu1, automatic), readline-common:arm64 (7.0-3, automatic), libmagic1:arm64 (1:5.32-2, automatic), libmpdec2:arm64 (2.4.2-1ubuntu1, automatic), libmagic-mgc:arm64 (1:5.32-2, automatic), vim-runtime:arm64 (2:8.0.1453-1ubuntu1, automatic), vim:arm64 (2:8.0.1453-1ubuntu1), xz-utils:arm64 (5.2.2-1.3, automatic), xxd:arm64 (2:8.0.1453-1ubuntu1, automatic), libreadline7:arm64 (7.0-3, automatic), bzip2:arm64 (1.0.6-8.1, automatic), libgpm2:arm64 (1.20.7-5, automatic), file:arm64 (1:5.32-2, automatic)
+End-Date: 2020-08-04  03:40:09
+
+Start-Date: 2020-08-04  17:47:49
+Commandline: apt install ruby -y
+Install: javascript-common:arm64 (11, automatic), ruby2.5:arm64 (2.5.1-1ubuntu1, automatic), rake:arm64 (12.3.1-1, automatic), ruby-net-telnet:arm64 (0.1.1-2, automatic), libjs-jquery:arm64 (3.2.1-1, automatic), ruby-minitest:arm64 (5.10.3-1, automatic), libruby2.5:arm64 (2.5.1-1ubuntu1, automatic), ruby:arm64 (1:2.5.1), ruby-power-assert:arm64 (0.3.0-1, automatic), unzip:arm64 (6.0-21ubuntu1, automatic), zip:arm64 (3.0-11build1, automatic), rubygems-integration:arm64 (1.11, automatic), fonts-lato:arm64 (2.0-2, automatic), ruby-test-unit:arm64 (3.2.5-1, automatic), libyaml-0-2:arm64 (0.1.7-2ubuntu3, automatic), ruby-did-you-mean:arm64 (1.2.0-2, automatic)
+End-Date: 2020-08-04  17:48:15
+
+Start-Date: 2020-08-04  17:48:37
+Commandline: apt install figlet -y
+Install: figlet:arm64 (2.2.5-3)
+End-Date: 2020-08-04  17:48:38
+
+Start-Date: 2020-08-04  17:48:55
+Commandline: apt install toilet -y
+Install: toilet:arm64 (0.3-1.1), libcaca0:arm64 (0.99.beta19-2build2~gcc5.3, automatic), toilet-fonts:arm64 (0.3-1.1, automatic), libslang2:arm64 (2.3.1a-3ubuntu1, automatic)
+End-Date: 2020-08-04  17:48:58
+
+Start-Date: 2020-08-04  19:38:59
+Commandline: apt install sudo
+Install: sudo:arm64 (1.8.21p2-3ubuntu1)
+End-Date: 2020-08-04  19:39:03
+
+Start-Date: 2020-08-04  19:56:38
+Commandline: apt-get install zsh
+Install: zsh:arm64 (5.4.2-3ubuntu3), zsh-common:arm64 (5.4.2-3ubuntu3, automatic)
+End-Date: 2020-08-04  19:57:05
+
+Start-Date: 2020-08-04  20:08:57
+Commandline: apt-get install curl
+Install: libcurl4:arm64 (7.58.0-2ubuntu3, automatic), curl:arm64 (7.58.0-2ubuntu3)
+End-Date: 2020-08-04  20:08:59
+
+Start-Date: 2020-08-04  22:03:22
+Commandline: apt-get install fonts-powerline
+Install: fontconfig-config:arm64 (2.12.6-0ubuntu2, automatic), fontconfig:arm64 (2.12.6-0ubuntu2, automatic), fonts-dejavu-core:arm64 (2.37-1, automatic), ucf:arm64 (3.0038, automatic), libfontconfig1:arm64 (2.12.6-0ubuntu2, automatic), libfreetype6:arm64 (2.8.1-2ubuntu2, automatic), fonts-powerline:arm64 (2.6-1), libpng16-16:arm64 (1.6.34-1, automatic)
+End-Date: 2020-08-04  22:03:45
+
+Start-Date: 2020-08-05  17:11:13
+Commandline: apt-get install aircrack-ng -y
+Install: libusb-1.0-0:arm64 (2:1.0.21-2, automatic), iw:arm64 (4.14-0.1, automatic), libnl-genl-3-200:arm64 (3.2.29-0ubuntu3, automatic), wireless-tools:arm64 (30~pre9-12ubuntu1, automatic), libiw30:arm64 (30~pre9-12ubuntu1, automatic), aircrack-ng:arm64 (1:1.2-0~rc4-4), libnl-3-200:arm64 (3.2.29-0ubuntu3, automatic), ieee-data:arm64 (20180204.1, automatic), rfkill:arm64 (2.31.1-0.4ubuntu3, automatic), usbutils:arm64 (1:007-4build1, automatic), ethtool:arm64 (1:4.15-0ubuntu1, automatic), libpcap0.8:arm64 (1.8.1-6ubuntu1, automatic), crda:arm64 (3.18-1build1, automatic), wireless-regdb:arm64 (2016.06.10-0ubuntu1, automatic)
+Error: Sub-process /usr/bin/dpkg returned an error code (2)
+End-Date: 2020-08-05  17:11:35

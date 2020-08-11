@@ -1,0 +1,7 @@
+Package: libiw30
+Status: install reinstreq half-installed
+Priority: extra
+Section: libs
+Architecture: arm64
+Multi-Arch: same
+Version: 30~pre9-12ubuntu1
